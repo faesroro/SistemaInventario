@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "z3KTuTWrPTDfnLBbLGVOOT7Qi9cmxtoF+5IetTH/hT0=",
+  "Hash": "AmJDVETw/6yXFQmjsT5WxtKadYlUN5TPylrG82TDYSk=",
   "Source": "SistemaInventario",
   "BasePath": "_content/SistemaInventario",
   "Mode": "Default",
@@ -1120,6 +1120,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\bodega.js"
+    },
+    {
+      "Identity": "C:\\Users\\marce\\OneDrive\\Documentos\\Fabian\\ProyectosVisualStudio\\NetCoreV7\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\categoria.js",
+      "SourceId": "SistemaInventario",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\marce\\OneDrive\\Documentos\\Fabian\\ProyectosVisualStudio\\NetCoreV7\\SistemaInventario\\SistemaInventario\\wwwroot\\",
+      "BasePath": "_content/SistemaInventario",
+      "RelativePath": "js/categoria.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\categoria.js"
     },
     {
       "Identity": "C:\\Users\\marce\\OneDrive\\Documentos\\Fabian\\ProyectosVisualStudio\\NetCoreV7\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\site.js",

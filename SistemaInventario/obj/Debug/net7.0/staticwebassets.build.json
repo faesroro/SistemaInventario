@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "AmJDVETw/6yXFQmjsT5WxtKadYlUN5TPylrG82TDYSk=",
+  "Hash": "x54IXkEe/hpXHDKZGPoagxbwdTQ/Aa55wJBexams38E=",
   "Source": "SistemaInventario",
   "BasePath": "_content/SistemaInventario",
   "Mode": "Default",
@@ -1137,6 +1137,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\categoria.js"
+    },
+    {
+      "Identity": "C:\\Users\\marce\\OneDrive\\Documentos\\Fabian\\ProyectosVisualStudio\\NetCoreV7\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\marca.js",
+      "SourceId": "SistemaInventario",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\marce\\OneDrive\\Documentos\\Fabian\\ProyectosVisualStudio\\NetCoreV7\\SistemaInventario\\SistemaInventario\\wwwroot\\",
+      "BasePath": "_content/SistemaInventario",
+      "RelativePath": "js/marca.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\marca.js"
     },
     {
       "Identity": "C:\\Users\\marce\\OneDrive\\Documentos\\Fabian\\ProyectosVisualStudio\\NetCoreV7\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\site.js",

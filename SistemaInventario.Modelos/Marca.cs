@@ -7,21 +7,20 @@ using System.Threading.Tasks;
 
 namespace SistemaInventario.Modelos
 {
-    public class Categoria
+    public class Marca
     {
         [Key]
         public int Id { get; set; }
 
-        [Required(ErrorMessage ="Nombre es requerido")]
-        [MaxLength(60, ErrorMessage ="Nombre debe ser de maximo 60 acaracteres")]        
+        [Required(ErrorMessage = "Nombre es requerido")]
+        [MaxLength(60, ErrorMessage = "Nombre debe ser de maximo 60 caracteres")]
         public string Nombre { get; set; }
 
         [Required(ErrorMessage = "Descripción es requerido")]
-        [MaxLength(100, ErrorMessage = "Nombre debe ser de maximo 100 acaracteres")]
-        public string Descripcion {  get; set; }
+        [MaxLength(100, ErrorMessage = "Nombre debe ser de maximo 100 caracteres")]
+        public string Descripcion { get; set; }
 
         [Required(ErrorMessage = "Estado es requerido")]
-        public bool Estado {  get; set; }
-
+        public bool Estado { get; set; }
     }
 }

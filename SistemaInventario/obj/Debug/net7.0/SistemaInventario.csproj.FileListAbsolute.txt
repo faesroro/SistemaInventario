@@ -310,6 +310,7 @@ C:\Users\marce\OneDrive\Documentos\Fabian\ProyectosVisualStudio\NetCoreV7\Sistem
 C:\Users\marce\OneDrive\Documentos\Fabian\ProyectosVisualStudio\NetCoreV7\SistemaInventario\SistemaInventario\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
 C:\Users\marce\OneDrive\Documentos\Fabian\ProyectosVisualStudio\NetCoreV7\SistemaInventario\SistemaInventario\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\marce\OneDrive\Documentos\Fabian\ProyectosVisualStudio\NetCoreV7\SistemaInventario\SistemaInventario\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\marce\OneDrive\Documentos\Fabian\ProyectosVisualStudio\NetCoreV7\SistemaInventario\SistemaInventario\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
 C:\Users\marce\OneDrive\Documentos\Fabian\ProyectosVisualStudio\NetCoreV7\SistemaInventario\SistemaInventario\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
 C:\Users\marce\OneDrive\Documentos\Fabian\ProyectosVisualStudio\NetCoreV7\SistemaInventario\SistemaInventario\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
 C:\Users\marce\OneDrive\Documentos\Fabian\ProyectosVisualStudio\NetCoreV7\SistemaInventario\SistemaInventario\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
@@ -359,6 +360,7 @@ C:\Users\marce\OneDrive\Documentos\Fabian\ProyectosVisualStudio\NetCoreV7\Sistem
 C:\Users\marce\OneDrive\Documentos\Fabian\ProyectosVisualStudio\NetCoreV7\SistemaInventario\SistemaInventario\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\marce\OneDrive\Documentos\Fabian\ProyectosVisualStudio\NetCoreV7\SistemaInventario\SistemaInventario\bin\Debug\net7.0\Mono.TextTemplating.dll
 C:\Users\marce\OneDrive\Documentos\Fabian\ProyectosVisualStudio\NetCoreV7\SistemaInventario\SistemaInventario\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\marce\OneDrive\Documentos\Fabian\ProyectosVisualStudio\NetCoreV7\SistemaInventario\SistemaInventario\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
 C:\Users\marce\OneDrive\Documentos\Fabian\ProyectosVisualStudio\NetCoreV7\SistemaInventario\SistemaInventario\bin\Debug\net7.0\NuGet.Common.dll
 C:\Users\marce\OneDrive\Documentos\Fabian\ProyectosVisualStudio\NetCoreV7\SistemaInventario\SistemaInventario\bin\Debug\net7.0\NuGet.Configuration.dll
 C:\Users\marce\OneDrive\Documentos\Fabian\ProyectosVisualStudio\NetCoreV7\SistemaInventario\SistemaInventario\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll

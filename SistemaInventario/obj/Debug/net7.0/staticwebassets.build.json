@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "x54IXkEe/hpXHDKZGPoagxbwdTQ/Aa55wJBexams38E=",
+  "Hash": "zSUG4uUxrpEyPiyi12hWU8IKOuzF3qt/qFxJ2eaLWOg=",
   "Source": "SistemaInventario",
   "BasePath": "_content/SistemaInventario",
   "Mode": "Default",
@@ -1105,6 +1105,23 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\marce\\OneDrive\\Documentos\\Fabian\\ProyectosVisualStudio\\NetCoreV7\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\d12e88dd-bc31-4aff-9888-81f5fb0adff8.JPG",
+      "SourceId": "SistemaInventario",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\marce\\OneDrive\\Documentos\\Fabian\\ProyectosVisualStudio\\NetCoreV7\\SistemaInventario\\SistemaInventario\\wwwroot\\",
+      "BasePath": "_content/SistemaInventario",
+      "RelativePath": "imagenes/producto/d12e88dd-bc31-4aff-9888-81f5fb0adff8.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\producto\\d12e88dd-bc31-4aff-9888-81f5fb0adff8.JPG"
+    },
+    {
       "Identity": "C:\\Users\\marce\\OneDrive\\Documentos\\Fabian\\ProyectosVisualStudio\\NetCoreV7\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\bodega.js",
       "SourceId": "SistemaInventario",
       "SourceType": "Discovered",
@@ -1154,6 +1171,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\marca.js"
+    },
+    {
+      "Identity": "C:\\Users\\marce\\OneDrive\\Documentos\\Fabian\\ProyectosVisualStudio\\NetCoreV7\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\producto.js",
+      "SourceId": "SistemaInventario",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\marce\\OneDrive\\Documentos\\Fabian\\ProyectosVisualStudio\\NetCoreV7\\SistemaInventario\\SistemaInventario\\wwwroot\\",
+      "BasePath": "_content/SistemaInventario",
+      "RelativePath": "js/producto.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\producto.js"
     },
     {
       "Identity": "C:\\Users\\marce\\OneDrive\\Documentos\\Fabian\\ProyectosVisualStudio\\NetCoreV7\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\site.js",

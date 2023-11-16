@@ -13,8 +13,44 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\marce\\OneDrive\\Documentos\\Fabian\\ProyectosVisualStudio\\NetCoreV7\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\icono.ico",
+      "PackagePath": "staticwebassets\\imagenes\\icono.ico"
+    },
+    {
+      "Id": "C:\\Users\\marce\\OneDrive\\Documentos\\Fabian\\ProyectosVisualStudio\\NetCoreV7\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\icono.png",
+      "PackagePath": "staticwebassets\\imagenes\\icono.png"
+    },
+    {
+      "Id": "C:\\Users\\marce\\OneDrive\\Documentos\\Fabian\\ProyectosVisualStudio\\NetCoreV7\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\3a41fecb-9f4c-434c-92c4-3a7efc5dcbbd.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\3a41fecb-9f4c-434c-92c4-3a7efc5dcbbd.JPG"
+    },
+    {
+      "Id": "C:\\Users\\marce\\OneDrive\\Documentos\\Fabian\\ProyectosVisualStudio\\NetCoreV7\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\4fea4b76-2e98-448f-8899-04bd8ee5ded7.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\4fea4b76-2e98-448f-8899-04bd8ee5ded7.JPG"
+    },
+    {
+      "Id": "C:\\Users\\marce\\OneDrive\\Documentos\\Fabian\\ProyectosVisualStudio\\NetCoreV7\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\67b221e3-66a0-4a9c-81fc-409b295a7bb9.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\67b221e3-66a0-4a9c-81fc-409b295a7bb9.JPG"
+    },
+    {
+      "Id": "C:\\Users\\marce\\OneDrive\\Documentos\\Fabian\\ProyectosVisualStudio\\NetCoreV7\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\68a843ef-02af-44fe-b599-b64bcadee40a.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\68a843ef-02af-44fe-b599-b64bcadee40a.JPG"
+    },
+    {
+      "Id": "C:\\Users\\marce\\OneDrive\\Documentos\\Fabian\\ProyectosVisualStudio\\NetCoreV7\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\95173eb3-1322-4506-82cf-c19ef27d5867.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\95173eb3-1322-4506-82cf-c19ef27d5867.JPG"
+    },
+    {
+      "Id": "C:\\Users\\marce\\OneDrive\\Documentos\\Fabian\\ProyectosVisualStudio\\NetCoreV7\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\cce7b665-ce65-4d54-ac75-4093b02f4a74.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\cce7b665-ce65-4d54-ac75-4093b02f4a74.JPG"
+    },
+    {
       "Id": "C:\\Users\\marce\\OneDrive\\Documentos\\Fabian\\ProyectosVisualStudio\\NetCoreV7\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\d12e88dd-bc31-4aff-9888-81f5fb0adff8.JPG",
       "PackagePath": "staticwebassets\\imagenes\\producto\\d12e88dd-bc31-4aff-9888-81f5fb0adff8.JPG"
+    },
+    {
+      "Id": "C:\\Users\\marce\\OneDrive\\Documentos\\Fabian\\ProyectosVisualStudio\\NetCoreV7\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\f45e746d-80db-4e16-8b1a-6ee58218e443.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\f45e746d-80db-4e16-8b1a-6ee58218e443.JPG"
     },
     {
       "Id": "C:\\Users\\marce\\OneDrive\\Documentos\\Fabian\\ProyectosVisualStudio\\NetCoreV7\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\bodega.js",
